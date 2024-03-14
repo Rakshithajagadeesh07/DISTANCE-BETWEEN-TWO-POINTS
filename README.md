@@ -31,7 +31,6 @@ distance = math.sqrt((x2 - x1) ** 2 + (y2 - y1) ** 2)
 print("{:.2f}".format(distance))
 
 ```
-
 ### OUTPUT:
 ![Output](dis.png)
 
